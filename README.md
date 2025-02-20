@@ -86,9 +86,9 @@ To deploy on **GitHub Pages**, run:
 
 ## 📞 Contact 📩
 
-For **queries** ❓, reach out via [GitHub Issues](https://github.com/pavithrak17/NLP_WEB/issues).
+For **queries** ❓, reach out via [GitHub Issues](https://github.com/nisarga715/NLP__WEB/issues).
 
-🔗 [GitHub Repository](https://github.com/pavithrak17/NLP_WEB)
+🔗 [GitHub Repository](https://github.com/nisarga715/NLP__WEB)
 
-You can check Nlp python code in this repo , https://github.com/pavithrak17/Contextual-Language-Understanding-with-Transformer-Models
+You can check Nlp python code in this repo , https://github.com/https://github.com/nisarga715/Contextual-Language-Understanding-with-Transformer-Models
 
