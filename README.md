@@ -90,5 +90,4 @@ For **queries** ❓, reach out via [GitHub Issues](https://github.com/nisarga715
 
 🔗 [GitHub Repository](https://github.com/nisarga715/NLP__WEB)
 
-You can check Nlp python code in this repo , https://github.com/https://github.com/nisarga715/Contextual-Language-Understanding-with-Transformer-Models
-
+You can check Nlp python code in this repo , https://github.com/nisarga715/Contextual-Language-Understanding-with-Transformer-Models
