@@ -18,7 +18,7 @@ Built using **🤗 Hugging Face Transformers, 🤖 OpenAI GPT-3.5, and 🌐 Reac
 ### 1️⃣ Clone the Repository 🧩
 
 ```bash
-🐙 git clone https://github.com/pavithrak17/NLP_WEB  
+🐙 git clone https://github.com/nisarga715/NLP__WEB  
 ```
 
 ### 2️⃣ Install Dependencies 📦
